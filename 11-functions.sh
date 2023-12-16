@@ -22,4 +22,4 @@ fi
  
  VALIDATE
 
- yum install git -y
+ yum install git -
