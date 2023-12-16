@@ -9,7 +9,7 @@ then
 else
    echo "You are a root user"
 fi
- yum install mysqll-server -y
+ yum install mysql-server -y
 
  if [ $? -ne 0 ]
  then
